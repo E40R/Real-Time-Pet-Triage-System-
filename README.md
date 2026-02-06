@@ -1,3 +1,13 @@
+PawsPalConnect Assignment
+Submitted by: M K Kiriti
+
+<b>Pet Health Voice Agent - Modular Architecture </b>
+A real-time voice consultation system for pet health using LangChain and Perplexity AI.
+
+
+Note: This project avoids external third-party pipelines and relies only on core components (except LangChain for orchestration).
+
+
 ## Data Flow
 
 ### Complete Request Flow
