@@ -1,12 +1,37 @@
+<h3>Pet Health Voice Agent</h3>
+A real-time voice consultation system for pet health using LangChain and Perplexity AI.
+<br>
 PawsPalConnect Assignment
 Submitted by: M K Kiriti
-
-<b>Pet Health Voice Agent - Modular Architecture </b>
-A real-time voice consultation system for pet health using LangChain and Perplexity AI.
-
-
+<br>
 Note: This project avoids external third-party pipelines and relies only on core components (except LangChain for orchestration).
+<br>
+## 📦 Installation
 
+1. **Install dependencies:**
+```bash
+pip install -r requirements.txt
+```
+
+2. **Install system dependencies:**
+**Windows**
+```bash
+choco install ffmpeg winget install "FFmpeg (Essentials Build)"
+```
+**macOS:**
+```bash
+brew install portaudio ffmpeg
+```
+**Ubuntu/Debian:**
+```bash
+sudo apt-get install portaudio19-dev python3-pyaudio ffmpeg
+```
+
+3. **Set up environment:**
+```bash
+cp .env.example .env
+# Edit .env and add your PERPLEXITY_API_KEY
+```
 
 ## Data Flow
 
