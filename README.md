@@ -6,7 +6,7 @@ Submitted by: M K Kiriti
 <br>
 Note: This project avoids external third-party pipelines and relies only on core components (except LangChain for orchestration).
 <br>
-## 📦 Installation
+### 📦 Installation
 
 1. **Install dependencies:**
 ```bash
