@@ -1,9 +1,9 @@
 <h3>Pet Health Voice Agent</h3>
 A real-time voice consultation system for pet health using LangChain and Perplexity AI.
-<br>
+<br> <br>
 PawsPalConnect Assignment
 Submitted by: M K Kiriti
-<br>
+<br><br>
 Note: This project avoids external third-party pipelines and relies only on core components (except LangChain for orchestration).
 <br>
 
